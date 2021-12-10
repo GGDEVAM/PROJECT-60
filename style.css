@@ -73,7 +73,7 @@ h2{
 }
 .food
 {
-  background: #373B44; 
+  background: #373B44;
 
  background: linear-gradient( #4286f4, #373B44); 
 padding-top:20px;
@@ -85,6 +85,6 @@ border: 10px solid #AAAAAA;
 }
 
 img:hover {
- 
-    transform: scale(0.9 );
+  
+    transform: scale( 0.9);
 }
